@@ -1,0 +1,25 @@
+.card-conatiner
+{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
+}
+
+.card-conatiner img
+{
+    height: 200px;
+    width: 200px;
+}
+
+.Details
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+}
+.Details p
+{
+    margin-top: 0px;
+    font-size: 1rem;
+}
